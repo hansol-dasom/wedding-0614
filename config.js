@@ -16,21 +16,21 @@
 
 const CONFIG = {
   // ── 초대장 열기 ──
-  useCurtain: true
+  useCurtain: true,  // 초대장 열기 화면 사용 여부 (true: 사용, false: 바로 본문 표시)
 
   // ── 메인 (히어로) ──
   groom: {
     name: "이한솔",
-    nameEn: "GROOM",
-    father: "아버지",
-    mother: "어머니",
+    nameEn: "이한솔",
+    father: "김성만",
+    mother: "박수경",
     fatherDeceased: false,
     motherDeceased: false
   },
 
   bride: {
     name: "임다솜",
-    nameEn: "BRIDE",
+    nameEn: "임다솜",
     father: "임종호",
     mother: "사미선",
     fatherDeceased: false,
@@ -69,8 +69,8 @@ const CONFIG = {
   accounts: {
     groom: [
       { role: "신랑", name: "이한솔", bank: "OO은행", number: "000-000-000000" },
-      { role: "아버지", name: "홍판서", bank: "OO은행", number: "000-000-000000" },
-      { role: "어머니", name: "김순이", bank: "OO은행", number: "000-000-000000" }
+      { role: "아버지", name: "김성만", bank: "OO은행", number: "000-000-000000" },
+      { role: "어머니", name: "박수경", bank: "OO은행", number: "000-000-000000" }
     ],
     bride: [
       { role: "신부", name: "임다솜", bank: "우리은행", number: "1002-745-002705" },
