@@ -68,7 +68,7 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", name: "이한솔", bank: "OO은행", number: "000-000-000000" },
+      { role: "신랑", name: "이한솔", bank: "우리은행", number: "1002-061-933715" },
       { role: "아버지", name: "김성만", bank: "OO은행", number: "000-000-000000" },
       { role: "어머니", name: "박수경", bank: "OO은행", number: "000-000-000000" }
     ],
