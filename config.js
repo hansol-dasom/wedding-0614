@@ -21,7 +21,7 @@ const CONFIG = {
   // ── 메인 (히어로) ──
   groom: {
     name: "이한솔",
-    nameEn: "이한솔",
+    nameEn: "임다솜",
     father: "김성만",
     mother: "박수경",
     fatherDeceased: false,
@@ -30,7 +30,7 @@ const CONFIG = {
 
   bride: {
     name: "임다솜",
-    nameEn: "임다솜",
+    nameEn: "이한솔",
     father: "임종호",
     mother: "사미선",
     fatherDeceased: false,
